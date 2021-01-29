@@ -9,7 +9,8 @@ Sourses used:
     https://en.wikipedia.org/wiki/Matrix_digital_rain
 
 Color codes:
-    https://www.schemecolor.com/matrix-code-green.php#:~:text=The%20Matrix%20Code%20Green%20Color,)%20and%20Malachite%20(%2300FF41).
+    https://www.schemecolor.com/matrix-code-green.php#:~:text=The%20Matrix%2...
+    0Code%20Green%20Color,)%20and%20Malachite%20(%2300FF41).
 
 Font:
     https://www.dafont.com/matrix-code-nfi.font
