@@ -22,7 +22,7 @@ Example:
     https://i.imgur.com/dVQZlnh.png
 """
 
-import asyncio
+#import asyncio
 import argparse
 import pygame
 import random
@@ -122,7 +122,7 @@ def fade(tuplearray): #TODO: add Generators
     if temp[1] <= 2 or temp[2] <= 3:
         return (black)
     return temp
-                # main background ---------------------------------------------
+
 def ranChar():
     # TODO: add doc string
     # '1234567890abcdefghijklmnopqrstuvwxyz$+-*/÷=%‰"\'#&_(),.;:?!|{}<>[]^~'
@@ -247,3 +247,4 @@ def main():
 main()
 
 pygame.quit()
+
