@@ -31,7 +31,8 @@ from datetime import datetime
 
 # TODO: ADD async io
 # TODO: upload to github
-# TODO: check that this runs on linux and mac
+# TODO: Add auto resolution detection
+# TODO: Add multi monitor support
 
 my_parser = argparse.ArgumentParser()
 my_parser.add_argument('-s', '--size', action='store', type=int, nargs=2,
